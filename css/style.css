@@ -1,3 +1,4 @@
-.borderless table {
-    border-bottom-style: none;
+.container {
+    justify-content: center;
 }
+
